@@ -13,7 +13,7 @@ Gosto de transformar ideias em soluções simples, funcionais e com propósito. 
 - **HTML, CSS e JavaScript** para interfaces simples
 - Conceitos de **segurança da informação**, design responsivo e acessibilidade
 - Outras linguagens de programação como PHP, C# e C++
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barb1424&layout=compact&theme=dark)
 ---
 
 ## 💡 Tenho interesse em:
@@ -23,4 +23,3 @@ Gosto de transformar ideias em soluções simples, funcionais e com propósito. 
 - Colaborar com times que estão abertos a ensinar e crescer juntos
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barb1424&layout=compact&theme=dark)
