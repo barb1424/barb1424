@@ -22,3 +22,4 @@ Gosto de transformar ideias em soluções simples, funcionais e com propósito. 
 - Colaborar com times que estão abertos a ensinar e crescer juntos
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact)
