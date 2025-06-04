@@ -12,6 +12,7 @@ Gosto de transformar ideias em soluções simples, funcionais e com propósito. 
 - **Bancos de dados** com PostgreSQL e MySQL
 - **HTML, CSS e JavaScript** para interfaces simples
 - Conceitos de **segurança da informação**, design responsivo e acessibilidade
+- Outras linguagens de programação como PHP, C# e C++
 
 ---
 
