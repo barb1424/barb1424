@@ -1,20 +1,16 @@
 # Oi! Eu sou a Bárbara 👋
 
-Sou estudante de **Sistemas para Internet** na FATEC Rubens Lara e estou dando meus primeiros passos na área de desenvolvimento, com muito interesse em aprender e crescer na prática.  
-
-Gosto de transformar ideias em soluções simples, funcionais e com propósito. Já trabalhei com atendimento ao público, e isso me ensinou bastante sobre empatia, organização e trabalho em equipe — habilidades que levo comigo também no mundo da tecnologia.
-
----
 
 ## 👩‍💻 Atualmente estou aprendendo:
 
-- **Java com Spring Boot** para back-end
+- **HTML, CSS, JavaScript e Bootstrap**
+- **Java com Spring Boot**
 - **Bancos de dados** com PostgreSQL e MySQL
-- **HTML, CSS e JavaScript** para interfaces simples
-- Conceitos de **segurança da informação**, design responsivo e acessibilidade
-- Outras linguagens de programação como PHP, C# e C++
+- Conceitos de **segurança da informação**
+- Coisas novas!
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barb1424&layout=compact&theme=dark)
----
+
 
 ## 💡 Tenho interesse em:
 
