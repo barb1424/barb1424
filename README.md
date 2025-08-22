@@ -3,10 +3,9 @@
 
 ## 👩‍💻 Atualmente estou aprendendo:
 
-- **HTML, CSS, JavaScript e Bootstrap**
+- **Desenvolvimento web com React**
 - **Java com Spring Boot**
 - **Bancos de dados** com PostgreSQL e MySQL
-- Conceitos de **segurança da informação**
 - Coisas novas!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barb1424&layout=compact&theme=dark)
