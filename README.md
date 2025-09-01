@@ -3,9 +3,9 @@
 
 ## 👩‍💻 Atualmente estou aprendendo:
 
-- **Desenvolvimento web com React**
+- **Desenvolvimento web com React e Tailwind**
 - **Java com Spring Boot**
-- **Bancos de dados** com PostgreSQL e MySQL
+- **Bancos de dados** com PostgreSQL
 - Coisas novas!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barb1424&layout=compact&theme=dark)
