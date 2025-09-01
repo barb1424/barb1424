@@ -18,3 +18,6 @@
 - Colaborar com times que estão abertos a ensinar e crescer juntos
 
 ---
+<a href="linkedin.com/in/barbaravitoriaarantes/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>
+</a>
