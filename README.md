@@ -1,4 +1,4 @@
-# Oi! Eu sou a Bárbara 👋
+# Olá 👋
 
 
 ## 👩‍💻 Atualmente estou aprendendo:
