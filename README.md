@@ -1,11 +1,14 @@
 # Olá 👋
 
 
-## 👩‍💻 Atualmente estou aprendendo:
+## 👩‍💻 Me desenvolvendo atualmente em:
 
-- **Desenvolvimento web com React e Tailwind**
+- **React e React Native**
+- **HTML, CSS e JavaScript**
+- **Node**
+- **Tailwind CSS**
 - **Java com Spring Boot**
-- **Bancos de dados** com PostgreSQL
+- **Bancos de dados com PostgreSQL ou MySql**
 - Coisas novas!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barb1424&layout=compact&theme=dark)
